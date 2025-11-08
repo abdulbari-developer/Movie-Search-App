@@ -1,5 +1,5 @@
 import React from 'react'
-import MovieApp from './components/MovieApp'
+import MovieApp from './components/MovieApp.jsx'
 
 const App = () => {
   return (
